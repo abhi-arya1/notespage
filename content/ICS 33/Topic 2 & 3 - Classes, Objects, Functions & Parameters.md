@@ -1,5 +1,5 @@
 ---
-title: Topic 2 - Classes, Objects, Functions, Parameters
+title: Topic 2 and 3 - Classes, Objects, Functions, Parameters
 date: 2024-03-08
 ---
 
